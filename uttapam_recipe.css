@@ -1,0 +1,50 @@
+body{
+    background: url(https://images.unsplash.com/photo-1611915365928-565c527a0590?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+    
+
+}
+h2{
+    text-align: center;
+    font-weight: 700;
+    font-family: sans-serif;
+
+}
+.recipe {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #0c0909;
+    border-radius: 30px;
+    box-shadow: 10px 20px 20px rgba(0, 0, 0, 0.9);
+    backdrop-filter: blur(3px);
+}
+#picture{
+    width: 67vh;
+    height: 35vh;
+    
+}
+    
+  
+  .recipe h2 {
+    font-size: 24px;
+    margin-bottom: 0;
+  }
+  
+  .recipe img {
+    width: 80%;
+    margin-bottom: 20px;
+    border-image: linear-gradient(to right, red, blue) 1;
+  }
+  
+  .recipe ul, .recipe ol {
+    
+    padding-left: 20px;
+  }
+  
+  .recipe li {
+    margin-bottom: 10px;
+  }
+  

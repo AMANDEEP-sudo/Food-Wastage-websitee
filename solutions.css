@@ -1,0 +1,56 @@
+*{color: antiquewhite;
+    
+}
+header{
+    background-image: url(https://images.unsplash.com/photo-1608022749628-3251d92cdd79?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.jpg);
+    background-size: cover;
+    text-align: center;
+    
+    padding: 20px;
+    background-position: center;
+    
+}
+
+body{
+    text-align: center;
+    font-family: sans-serif;
+    margin:0;
+    padding: 0;
+    /* background:url(https://images.unsplash.com/photo-1589190051962-0b138f75d3c9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.jpeg) ; */
+    /* background-size: cover blur(20px) ;
+    background-position:center; */
+    /* background-color: transparent; */
+    background:url(https://images.unsplash.com/photo-1589190051962-0b138f75d3c9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.jpeg) no-repeat;
+    background-size: cover blur(30px) ;
+    background-position:center;
+    border-radius: 30px;
+    
+}
+/* .mealplan{
+    
+} */
+
+section{
+    
+    padding-top: 5vh;
+    margin: 5vh;
+    padding-bottom: 5vh;
+    padding-left: 5vh;
+    padding-right: 5vh;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    backdrop-filter: blur(20px);
+
+}
+h1{
+    color:black;
+}
+
+h2{
+    color:whitesmoke;
+}
+footer { 
+    background-color: black;
+    text-align: center;
+    margin-top: 50px;
+}
